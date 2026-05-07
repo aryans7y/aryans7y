@@ -45,11 +45,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="blank">
+  <a href="https://github.com/aryans7y" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/aryan-yadav-1722b5336/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
