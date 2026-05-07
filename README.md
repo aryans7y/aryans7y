@@ -55,7 +55,12 @@
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://www.instagram.com/mr_aryan_yadav_7777/" alt="profile views" />
+  <a href="https://www.instagram.com/mr_aryan_yadav_7777/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
+         alt="Instagram" 
+         width="40" 
+         height="40"/>
+  </a>
 </p>
 
 ---
