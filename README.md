@@ -1,6 +1,6 @@
 # 🚀 Aryan Yadav
 
-### 💻 Developer | 📈 Stock Market Enthusiast | 🎮 Python & Pygame Learner
+### 💻 Developer | 📈 Stock Market Enthusiast | 🎮 Python & Pygame Learner  | 💻 Full Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Stock+Market+Researcher;Learning+New+Technologies+Everyday" />
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/YOUR_USERNAME">Aryan Yadav</a>
+  ⭐ From <a href="https://github.com/aryans7y">Aryan Yadav</a>
 </p>
