@@ -76,3 +76,9 @@
 <p align="center">
   ⭐ From <a href="https://github.com/aryans7y">Aryan Yadav</a>
 </p>
+## 🎮 My Setup
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="gaming setup" width="500"/>
+</p>
+ 
