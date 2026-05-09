@@ -79,6 +79,6 @@
 ## 🎮 My Setup
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="gaming setup" width="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28xNXR3bGszZGh0ZzNhYTAxMzNmbHl1YzA2Z2k2ZGlvbXp4Z3d3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GKXQdN3xNk7dK/giphy.gif" alt="gaming setup" width="500"/>
 </p>
  
