@@ -1,9 +1,9 @@
 # 🚀 Aryan Yadav
 
-### 💻 Developer | 📈 Stock Market Enthusiast | 🎮 Python & Pygame Learner  | 💻 Full Stack Developer
+### 💻 Developer | 📈 Stock Market Enthusiast | 🎮 Python & Pygame Learner  | 💻 Full Stack Developer | Data Science
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Stock+Market+Researcher;Learning+New+Technologies+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+Developer;Stock+Market+Researcher;Learning+New+Technologies+Everyday;Data+Science" />
 </p>
 
 ---
